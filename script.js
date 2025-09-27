@@ -6,7 +6,7 @@ function mostrarDados(){
     const seg = data.getSeconds()
     const msghora = window.document.getElementById('hora')
     const msgSaud = window.document.getElementById('msg') 
-    const foto = window.document.getElementById('img')
+    const foto = window.document.querySelector('#img img')
 
     msghora.innerHTML = `Neste Momento são <strong>${hora}h:${min}m:${seg}s</strong>` 
 
