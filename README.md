@@ -26,4 +26,7 @@ Um projeto simples em **JavaScript, HTML e CSS** que mostra a hora atual, uma sa
 1. Clona este repositório:
 ```bash
 git clone https://github.com/Franciscoq54/relogio-digital.git
+2. Abre o ficheiro index.html no navegador
+3. Ou acede à versao online através do GitHub Pages:
+https://Franciscoq54.github.io/relogio-digital/
 
