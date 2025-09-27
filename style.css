@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background-color: lightgrey;
+}
+header{
+    font: normal 13pt Arial ;
+    color: lightskyblue;
+}
+section{
+    background-color: black;
+    color: white;
+    border: solid 2px lightskyblue;
+    border-radius: 5px;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+   
+}
+div{
+    margin: 50px;
+    background-color: whitesmoke;
+    color: black;
+    padding: 10px;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 15pt;
+}
+img{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+footer{
+    font-style: italic;
+    color: lightskyblue;
+    font-weight: bolder;
+}
